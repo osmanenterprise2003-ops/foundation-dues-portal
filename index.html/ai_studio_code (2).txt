@@ -1,0 +1,10 @@
+foundation-dues-portal/
+├── server.js            # High-performance server & API routes
+├── db.js                # Secure database & dues calculation engine
+├── package.json         # Deployment configuration (zero external build dependencies)
+├── render.yaml          # 1-Click Render auto-configuration
+├── README.md            # Complete documentation
+└── public/
+    ├── index.html       # Member portal & Financial Secretary dashboard UI
+    ├── style.css        # Responsive mobile-first styling (Ghana/MoMo theme)
+    └── app.js           # Client-side validation & real-time updates
